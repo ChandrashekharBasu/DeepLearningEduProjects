@@ -1,3 +1,4 @@
 - Sin and cosine psoitional encoding
 - Tokenization for BTE
+- KV Cache
 - Diffusion model architecture form scratch
