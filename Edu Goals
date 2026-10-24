@@ -1,6 +1,6 @@
 - Sin and cosine psoitional encoding
 - Tokenization for BTE
 - KV Cache
-- CUDA and Triton
-- Flash attnetion
+- Flash attnetion and its backward pass
+- triton kernels for variosu essential operation fusions
 - Diffusion model architecture form scratch
