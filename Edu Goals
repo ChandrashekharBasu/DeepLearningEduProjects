@@ -1,6 +1,5 @@
-- Sin and cosine psoitional encoding
 - Tokenization for BTE
 - KV Cache
-- Flash attnetion and its backward pass
+- improve custom flash attention kernels
 - triton kernels for variosu essential operation fusions
 - Diffusion model architecture form scratch
