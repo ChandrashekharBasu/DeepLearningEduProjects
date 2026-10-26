@@ -1,5 +1,6 @@
 - Tokenization for BTE
 - KV Cache
+- mixtre of experts
 - Grouped querry
 - improve custom flash attention kernels
 - triton kernels for variosu essential operation fusions
